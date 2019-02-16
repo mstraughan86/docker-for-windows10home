@@ -10,9 +10,6 @@ Installation instructions to install Docker for Windows on Windows 10 Home. Inst
 
 Or if you are coming from [these instructions](https://github.com/mstraughan86/modern-development/),
 
-- Chocolatey Alternative : ```(powershell as admin)```
-```
-choco install docker-for-windows -y
-```
+- Chocolatey Alternative : ```(powershell as admin)``` ```choco install docker-for-windows -y```
 - Run ```os-restore.reg```
 - Restart.
