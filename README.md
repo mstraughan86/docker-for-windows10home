@@ -18,3 +18,6 @@ choco install docker-for-windows -y
 ---
 - Run ```os-restore.reg```
 - Restart.
+---
+Optionally, to enable Hyper-V:
+- Run ```Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All```
